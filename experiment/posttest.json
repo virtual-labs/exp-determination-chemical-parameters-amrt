@@ -2,35 +2,52 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "COD is expressed in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "mg/L⁻¹",
+        "b": "mg/L O₂",
+        "c": "L",
+        "d": "mg"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect unit format.",
+        "b": "Correct. COD is expressed as milligrams per liter of oxygen (mg/L O₂).",
+        "c": "Too generic, not a standard unit for COD.",
+        "d": "mg alone is not volume-normalized."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In COD, the quantity of oxidant consumed is expressed in terms of its",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "None of the above",
+        "b": "Oxygen equivalence",
+        "c": "Dissolved oxygen equivalence",
+        "d": "Carbon equivalence"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. There is a specific equivalence.",
+        "b": "Correct. COD measures oxidant demand in terms of oxygen equivalence.",
+        "c": "Close, but not the standard terminology.",
+        "d": "Carbon equivalence is not used for COD."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Alkalinity can be measured by titrating a sample with...........",
+      "answers": {
+        "a": "Weak acid",
+        "b": "Strong base",
+        "c": "Strong acid",
+        "d": "Weak base"
+      },
+      "explanations": {
+        "a": "Weak acids do not ensure complete reaction with alkalinity.",
+        "b": "Bases are not used to determine alkalinity.",
+        "c": "Correct. Strong acids like HCl are used to titrate and determine alkalinity.",
+        "d": "Weak bases are not suitable for measuring alkalinity."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
