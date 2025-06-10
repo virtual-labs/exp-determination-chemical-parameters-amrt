@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The hardness of a water sample is usually a measure of",
+      "answers": {
+        "a": "Ca²⁺ and OH⁻",
+        "b": "Na²⁺ and Mg²⁺",
+        "c": "Na²⁺ and Cl⁻",
+        "d": "Ca²⁺ and Mg²⁺"
+      },
+      "explanations": {
+        "a": "OH⁻ does not contribute to hardness.",
+        "b": "Na²⁺ is not typically involved in hardness.",
+        "c": "Na⁺ and Cl⁻ are not responsible for water hardness.",
+        "d": "Correct. Ca²⁺ and Mg²⁺ ions are responsible for water hardness."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the methyl orange alkalinity of the water equals or exceeds the total hardness, all the hardness is present as",
+      "answers": {
+        "a": "None of the above",
+        "b": "Bicarbonate hardness",
+        "c": "Hydroxide hardness",
+        "d": "Carbonate hardness"
+      },
+      "explanations": {
+        "a": "Incorrect. This scenario corresponds to a specific type of hardness.",
+        "b": "Incorrect. Bicarbonate hardness is temporary hardness.",
+        "c": "Incorrect. Hydroxide ions are not dominant here.",
+        "d": "Correct. When methyl orange alkalinity equals or exceeds total hardness, all hardness is carbonate."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
