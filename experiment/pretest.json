@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The hardness of a water sample is usually a measure of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ca²⁺ and OH⁻",
+        "b": "Na²⁺ and Mg²⁺",
+        "c": "Na²⁺ and Cl⁻",
+        "d": "Ca²⁺ and Mg²⁺"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "OH⁻ does not contribute to hardness.",
+        "b": "Na²⁺ is not typically involved in hardness.",
+        "c": "Na⁺ and Cl⁻ are not responsible for water hardness.",
+        "d": "Correct. Ca²⁺ and Mg²⁺ ions are responsible for water hardness."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If the methyl orange alkalinity of the water equals or exceeds the total hardness, all the hardness is present as",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "None of the above",
+        "b": "Bicarbonate hardness",
+        "c": "Hydroxide hardness",
+        "d": "Carbonate hardness"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. This scenario corresponds to a specific type of hardness.",
+        "b": "Incorrect. Bicarbonate hardness is temporary hardness.",
+        "c": "Incorrect. Hydroxide ions are not dominant here.",
+        "d": "Correct. When methyl orange alkalinity equals or exceeds total hardness, all hardness is carbonate."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
