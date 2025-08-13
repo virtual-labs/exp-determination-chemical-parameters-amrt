@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The hardness of a water sample is usually a measure of",
+      "answers": {
+        "a": "Ca²⁺ and OH⁻",
+        "b": "Na²⁺ and Mg²⁺",
+        "c": "Na²⁺ and Cl⁻",
+        "d": "Ca²⁺ and Mg²⁺"
+      },
+      "explanations": {
+        "a": "OH⁻ does not contribute to hardness.",
+        "b": "Na²⁺ is not typically involved in hardness.",
+        "c": "Na⁺ and Cl⁻ are not responsible for water hardness.",
+        "d": "Correct. Ca²⁺ and Mg²⁺ ions are responsible for water hardness."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the methyl orange alkalinity of the water equals or exceeds the total hardness, all the hardness is present as",
+      "answers": {
+        "a": "None of the above",
+        "b": "Bicarbonate hardness",
+        "c": "Hydroxide hardness",
+        "d": "Carbonate hardness"
+      },
+      "explanations": {
+        "a": "Incorrect. This scenario corresponds to a specific type of hardness.",
+        "b": "Incorrect. Bicarbonate hardness is temporary hardness.",
+        "c": "Incorrect. Hydroxide ions are not dominant here.",
+        "d": "Correct. When methyl orange alkalinity equals or exceeds total hardness, all hardness is carbonate."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "COD is expressed in",
+      "answers": {
+        "a": "mg/L⁻¹",
+        "b": "mg/L O₂",
+        "c": "L",
+        "d": "mg"
+      },
+      "explanations": {
+        "a": "Incorrect unit format.",
+        "b": "Correct. COD is expressed as milligrams per liter of oxygen (mg/L O₂).",
+        "c": "Too generic, not a standard unit for COD.",
+        "d": "mg alone is not volume-normalized."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In COD, the quantity of oxidant consumed is expressed in terms of its",
+      "answers": {
+        "a": "None of the above",
+        "b": "Oxygen equivalence",
+        "c": "Dissolved oxygen equivalence",
+        "d": "Carbon equivalence"
+      },
+      "explanations": {
+        "a": "Incorrect. There is a specific equivalence.",
+        "b": "Correct. COD measures oxidant demand in terms of oxygen equivalence.",
+        "c": "Close, but not the standard terminology.",
+        "d": "Carbon equivalence is not used for COD."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Alkalinity can be measured by titrating a sample with...........",
+      "answers": {
+        "a": "Weak acid",
+        "b": "Strong base",
+        "c": "Strong acid",
+        "d": "Weak base"
+      },
+      "explanations": {
+        "a": "Weak acids do not ensure complete reaction with alkalinity.",
+        "b": "Bases are not used to determine alkalinity.",
+        "c": "Correct. Strong acids like HCl are used to titrate and determine alkalinity.",
+        "d": "Weak bases are not suitable for measuring alkalinity."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
